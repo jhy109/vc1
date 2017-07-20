@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="vcpro"
+  id="myeclipse.1500539358153"
+  context-root="/vcpro"
+  j2ee-spec="6.0"
+  archive="vcpro.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
